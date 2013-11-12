@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+
+# VIM
+.*.swp
+
+# Eagle temporary files
+*.[bls]\#[0123456789]
+
